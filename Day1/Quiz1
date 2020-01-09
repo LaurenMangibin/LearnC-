@@ -1,0 +1,16 @@
+Day 1 Quiz:
+1. The difference between an interpreter and a compiler is that an interpreter
+translates the source code and runs immediately and a compiler changes the
+source code into an executable to run whenever.
+
+2. Compiling source code:
+   g++ program.cpp -o <executable name>
+
+3. The linker turns an object file into an executable file.
+
+4. The development cycle is
+  a. Write
+  b. Compile
+  c. Link
+  d. Run
+  
